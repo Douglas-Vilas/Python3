@@ -12,3 +12,4 @@ raizQuadrada = math.isqrt(usuário) # ou int(usuário ** (1/2))
 # Resultado do Código
 print('O número digitado foi {}.'.format(usuário), end=' ')
 print('O dobro desse número é {}, seu triplo é {} e sua raiz quadrada é {}.'.format(dobro, triplo, raizQuadrada))
+
